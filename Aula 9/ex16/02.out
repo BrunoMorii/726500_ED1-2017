@@ -1,0 +1,199 @@
+Numero de nos na arvore de dados: 60.
+Altura da arvore de dados: 10.
+4947, Joares da Silva Pereira Junior
+102046, Eduardo Almeida Favarim
+102779, Joao Eduardo Oliveira Murta
+103336, Marcos Thiago Caetano Guarenghi
+105641, Rene Jose Del Pietro Filho
+116003, Alison Leal Arantes
+116752, Felipe Akira Taguchi
+117798, Luis Gustavo Couto Gadioli
+134763, Alexandre Kei Saito
+135018, Arthur Suh Balduini
+135100, Bianca Menezes Cerveira
+135207, Caio Romanini Silva
+135582, Erik de Godoy Perillo
+135713, Fernando Augusto Maso
+135964, Guilherme Kairalla Kolotelo
+136034, Gustavo Taminato Imazaki
+136423, Kevin Ferreira Silva
+136484, Leandro Siqueira Dias
+136618, Lucas de Melo Manço
+136670, Lucas Regis Pacheco
+136686, Lucas Yukio de Freitas Yamashita
+137015, Matheus Jacintho da Costa Bernardino
+137099, Murilo Casagrande Gazzone
+137207, Paola Marques de Almeida
+137237, Paulo Andre Dania Ferreira
+137242, Paulo Fernando dos Santos Pereira
+137302, Pedro Sineiro Herig
+137733, Tiago Bento Fernandes
+137756, Uglaybe Piell Fernandes
+137943, Alexandre Seidy Ioshisaqui
+138014, Ana Ting
+138108, Bruno Giovanni Matteuzzo Sesti
+138156, Carlos Yujiro Hagio
+138209, Daniel Gonzalez
+138380, Francisco Ignacio Fontoura Solla
+138396, Gabriel Max Schulze
+138428, Giovani Valencise
+138469, Guilherme Thiago Plazza
+138478, Gustavo de Bari Matsuno
+138501, Henrique de Abreu Amitay
+138726, Lucas Alvarez Tafarello
+138731, Lucas Felipe de Almeida
+138741, Lucas Martins Juviniano
+138745, Lucas Piscello Cosme
+139008, Pedro Emanuel Saraiva Parahyba
+139018, Pedro Nagy Castagna
+139035, Rafael Cassemiro Cordeiro Santos
+139357, Carlos Yoshihide Onaga
+139396, Denis Papa Casagrande
+139485, Guilherme Luiz da Silva Germano
+139589, Leticia de Andrade Nogueira
+140591, Eduardo Montagner Franquini
+140609, Felipe Hiroyuki Hirata Tani
+140647, Guilherme Fava Brunhole
+140721, Kaique Arce de Almeida Camargo
+140837, Murilo Silveira Mello
+140861, Patrick Paul Kunze
+141546, Marcus Vinicius Guimaraes Silva
+141692, Regiane Akemi Hirata
+141966, Marcel de Almeida
+138209, Daniel Gonzalez
+	138108, Bruno Giovanni Matteuzzo Sesti
+		135713, Fernando Augusto Maso
+			116752, Felipe Akira Taguchi
+				105641, Rene Jose Del Pietro Filho
+					102779, Joao Eduardo Oliveira Murta
+						4947, Joares da Silva Pereira Junior
+							102046, Eduardo Almeida Favarim
+						103336, Marcos Thiago Caetano Guarenghi
+					116003, Alison Leal Arantes
+				135018, Arthur Suh Balduini
+					134763, Alexandre Kei Saito
+						117798, Luis Gustavo Couto Gadioli
+					135582, Erik de Godoy Perillo
+						135207, Caio Romanini Silva
+							135100, Bianca Menezes Cerveira
+			137099, Murilo Casagrande Gazzone
+				135964, Guilherme Kairalla Kolotelo
+					136484, Leandro Siqueira Dias
+						136423, Kevin Ferreira Silva
+							136034, Gustavo Taminato Imazaki
+						136670, Lucas Regis Pacheco
+							136618, Lucas de Melo Manço
+							137015, Matheus Jacintho da Costa Bernardino
+								136686, Lucas Yukio de Freitas Yamashita
+				137302, Pedro Sineiro Herig
+					137237, Paulo Andre Dania Ferreira
+						137207, Paola Marques de Almeida
+						137242, Paulo Fernando dos Santos Pereira
+					137733, Tiago Bento Fernandes
+						138014, Ana Ting
+							137756, Uglaybe Piell Fernandes
+								137943, Alexandre Seidy Ioshisaqui
+		138156, Carlos Yujiro Hagio
+	138478, Gustavo de Bari Matsuno
+		138469, Guilherme Thiago Plazza
+			138380, Francisco Ignacio Fontoura Solla
+				138396, Gabriel Max Schulze
+					138428, Giovani Valencise
+		139357, Carlos Yoshihide Onaga
+			139035, Rafael Cassemiro Cordeiro Santos
+				138726, Lucas Alvarez Tafarello
+					138501, Henrique de Abreu Amitay
+					139018, Pedro Nagy Castagna
+						138731, Lucas Felipe de Almeida
+							138741, Lucas Martins Juviniano
+								138745, Lucas Piscello Cosme
+									139008, Pedro Emanuel Saraiva Parahyba
+			140861, Patrick Paul Kunze
+				139485, Guilherme Luiz da Silva Germano
+					139396, Denis Papa Casagrande
+					140721, Kaique Arce de Almeida Camargo
+						140591, Eduardo Montagner Franquini
+							139589, Leticia de Andrade Nogueira
+							140609, Felipe Hiroyuki Hirata Tani
+								140647, Guilherme Fava Brunhole
+						140837, Murilo Silveira Mello
+				141692, Regiane Akemi Hirata
+					141546, Marcus Vinicius Guimaraes Silva
+					141966, Marcel de Almeida
+RA 164758 nao encontrado na arvore de dados.
+116003, Alison Leal Arantes
+RA 136484 ja estava presente na arvore de dados.
+4947, Joares da Silva Pereira Junior
+102046, Eduardo Almeida Favarim
+102779, Joao Eduardo Oliveira Murta
+103336, Marcos Thiago Caetano Guarenghi
+105641, Rene Jose Del Pietro Filho
+116003, Alison Leal Arantes
+116123, Felipe
+116752, Felipe Akira Taguchi
+117798, Luis Gustavo Couto Gadioli
+131269, Guilherme Thiago
+134763, Alexandre Kei Saito
+135018, Arthur Suh Balduini
+135100, Bianca Menezes Cerveira
+135207, Caio Romanini Silva
+135582, Erik de Godoy Perillo
+135713, Fernando Augusto Maso
+135912, Guilherme
+135964, Guilherme Kairalla Kolotelo
+136034, Gustavo Taminato Imazaki
+136423, Kevin Ferreira Silva
+136484, Leandro Siqueira Dias
+136618, Lucas de Melo Manço
+136670, Lucas Regis Pacheco
+136686, Lucas Yukio de Freitas Yamashita
+137012, Murilo
+137015, Matheus Jacintho da Costa Bernardino
+137099, Murilo Casagrande Gazzone
+137207, Paola Marques de Almeida
+137237, Paulo Andre Dania Ferreira
+137242, Paulo Fernando dos Santos Pereira
+137302, Pedro Sineiro Herig
+137733, Tiago Bento Fernandes
+137756, Uglaybe Piell Fernandes
+137943, Alexandre Seidy Ioshisaqui
+138014, Ana Ting
+138108, Bruno Giovanni Matteuzzo Sesti
+138156, Carlos Yujiro Hagio
+138209, Daniel Gonzalez
+138380, Francisco Ignacio Fontoura Solla
+138396, Gabriel Max Schulze
+138428, Giovani Valencise
+138469, Guilherme Thiago Plazza
+138478, Gustavo de Bari Matsuno
+138501, Henrique de Abreu Amitay
+138712, Lucas
+138723, Lucas
+138726, Lucas Alvarez Tafarello
+138731, Lucas Felipe de Almeida
+138741, Lucas Martins Juviniano
+138743, Lucas
+138745, Lucas Piscello Cosme
+139008, Pedro Emanuel Saraiva Parahyba
+139018, Pedro Nagy Castagna
+139032, Pedro
+139035, Rafael Cassemiro Cordeiro Santos
+139357, Carlos Yoshihide Onaga
+139396, Denis Papa Casagrande
+139412, Guilherme
+139485, Guilherme Luiz da Silva Germano
+139589, Leticia de Andrade Nogueira
+140591, Eduardo Montagner Franquini
+140609, Felipe Hiroyuki Hirata Tani
+140647, Guilherme Fava Brunhole
+140721, Kaique Arce de Almeida Camargo
+140732, Kaique
+140837, Murilo Silveira Mello
+140861, Patrick Paul Kunze
+141261, Patrick
+141546, Marcus Vinicius Guimaraes Silva
+141692, Regiane Akemi Hirata
+141966, Marcel de Almeida
+Numero de nos na arvore de dados: 71.
+Altura da arvore de dados: 10.
+Processamento finalizado
