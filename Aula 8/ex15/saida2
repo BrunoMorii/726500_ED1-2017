@@ -1,0 +1,374 @@
+Alcunha: Berserker
+Funcao: Suporte
+Poder: 260
+Capitao do esquadrao
+
+Alcunha: Gunner
+Funcao: Suporte
+Poder: 603
+Tutor: Berserker
+
+Alcunha: Valkyrie
+Funcao: Suporte
+Poder: 43
+Tutor: Gunner
+
+Alcunha: Archer
+Funcao: Combatente
+Poder: 894
+Tutor: Gunner
+
+Alcunha: Reaper
+Funcao: Combatente
+Poder: 12
+Tutor: Archer
+
+Alcunha: Warrior
+Funcao: Combatente
+Poder: 512
+Tutor: Reaper
+
+Alcunha: Valkyrie
+Funcao: Suporte
+Poder: 43
+Capitao do esquadrao
+
+Alcunha: Brawler
+Funcao: Lider da guilda
+Poder: 428
+Capitao do esquadrao
+
+Alcunha: Slayer
+Funcao: Suporte
+Poder: 710
+Tutor: Brawler
+
+Alcunha: Sorcerer
+Funcao: Combatente
+Poder: 690
+Tutor: Slayer
+
+Alcunha: Lancer
+Funcao: Combatente
+Poder: 211
+Tutor: Brawler
+
+Alcunha: Berserker
+Funcao: Suporte
+Poder: 260
+Tutor: Lancer
+
+Alcunha: Gunner
+Funcao: Suporte
+Poder: 603
+Tutor: Berserker
+
+Alcunha: Valkyrie
+Funcao: Suporte
+Poder: 43
+Tutor: Gunner
+
+Alcunha: Archer
+Funcao: Combatente
+Poder: 894
+Tutor: Gunner
+
+Alcunha: Reaper
+Funcao: Combatente
+Poder: 12
+Tutor: Archer
+
+Alcunha: Warrior
+Funcao: Combatente
+Poder: 512
+Tutor: Reaper
+
+Alcunha: Priest
+Funcao: Suporte
+Poder: 743
+Tutor: Warrior
+
+Alcunha: Reaper
+Funcao: Combatente
+Poder: 12
+Capitao do esquadrao
+
+Alcunha: Warrior
+Funcao: Combatente
+Poder: 512
+Tutor: Reaper
+
+Alcunha: Priest
+Funcao: Suporte
+Poder: 743
+Tutor: Warrior
+
+Alcunha: Lancer
+Funcao: Combatente
+Poder: 211
+Capitao do esquadrao
+
+Alcunha: Berserker
+Funcao: Suporte
+Poder: 260
+Tutor: Lancer
+
+Alcunha: Gunner
+Funcao: Suporte
+Poder: 603
+Tutor: Berserker
+
+Alcunha: Valkyrie
+Funcao: Suporte
+Poder: 43
+Tutor: Gunner
+
+Alcunha: Archer
+Funcao: Combatente
+Poder: 894
+Tutor: Gunner
+
+Alcunha: Reaper
+Funcao: Combatente
+Poder: 12
+Tutor: Archer
+
+Alcunha: Warrior
+Funcao: Combatente
+Poder: 512
+Tutor: Reaper
+
+Alcunha: Priest
+Funcao: Suporte
+Poder: 743
+Tutor: Warrior
+
+Alcunha: Mystic
+Funcao: Combatente
+Poder: 385
+Tutor: Berserker
+
+Alcunha: Archer
+Funcao: Combatente
+Poder: 894
+Capitao do esquadrao
+
+Alcunha: Reaper
+Funcao: Combatente
+Poder: 12
+Tutor: Archer
+
+Alcunha: Warrior
+Funcao: Combatente
+Poder: 512
+Tutor: Reaper
+
+Alcunha: Priest
+Funcao: Suporte
+Poder: 743
+Tutor: Warrior
+
+Alcunha: Gunner
+Funcao: Suporte
+Poder: 603
+Capitao do esquadrao
+
+Alcunha: Valkyrie
+Funcao: Suporte
+Poder: 43
+Tutor: Gunner
+
+Alcunha: Archer
+Funcao: Combatente
+Poder: 894
+Tutor: Gunner
+
+Alcunha: Reaper
+Funcao: Combatente
+Poder: 12
+Tutor: Archer
+
+Alcunha: Warrior
+Funcao: Combatente
+Poder: 512
+Tutor: Reaper
+
+Alcunha: Priest
+Funcao: Suporte
+Poder: 743
+Tutor: Warrior
+
+Alcunha: Brawler
+Funcao: Lider da guilda
+Poder: 428
+Capitao do esquadrao
+
+Alcunha: Slayer
+Funcao: Suporte
+Poder: 710
+Tutor: Brawler
+
+Alcunha: Sorcerer
+Funcao: Combatente
+Poder: 690
+Tutor: Slayer
+
+Alcunha: Lancer
+Funcao: Combatente
+Poder: 211
+Tutor: Brawler
+
+Alcunha: Berserker
+Funcao: Suporte
+Poder: 260
+Tutor: Lancer
+
+Alcunha: Gunner
+Funcao: Suporte
+Poder: 603
+Tutor: Berserker
+
+Alcunha: Valkyrie
+Funcao: Suporte
+Poder: 43
+Tutor: Gunner
+
+Alcunha: Archer
+Funcao: Combatente
+Poder: 894
+Tutor: Gunner
+
+Alcunha: Mage
+Funcao: Suporte
+Poder: 465
+Tutor: Archer
+
+Alcunha: Reaper
+Funcao: Combatente
+Poder: 12
+Tutor: Archer
+
+Alcunha: Warrior
+Funcao: Combatente
+Poder: 512
+Tutor: Reaper
+
+Alcunha: Priest
+Funcao: Suporte
+Poder: 743
+Tutor: Warrior
+
+Alcunha: Paladin
+Funcao: Combatente
+Poder: 151
+Tutor: Warrior
+
+Alcunha: Mystic
+Funcao: Combatente
+Poder: 385
+Tutor: Berserker
+
+Vencedor: Sorcerer
+Poderio: 690
+Vencedor: Berserker
+Poderio: 4068
+Capitao comum: Brawler
+Capitao comum: Brawler
+Vencedor: Warrior
+Poderio: 1406
+Empate
+Poderio: 1406
+Capitao comum: Brawler
+Vencedor: Mage
+Poderio: 465
+Capitao comum: Brawler
+Empate
+Poderio: 690
+Vencedor: Mage
+Poderio: 465
+Capitao comum: Brawler
+Vencedor: Sorcerer
+Poderio: 690
+Vencedor: Lancer
+Poderio: 4279
+Vencedor: Reaper
+Poderio: 1418
+Vencedor: Warrior
+Poderio: 1406
+Capitao comum: Brawler
+Capitao comum: Brawler
+Vencedor: Reaper
+Poderio: 1418
+Vencedor: Lancer
+Poderio: 3814
+Empate
+Poderio: 2312
+Capitao comum: Brawler
+Membro nao registado na guilda!
+Vencedor: Mystic
+Poderio: 385
+Vencedor: Lancer
+Poderio: 3814
+Membro nao registado na guilda!
+Vencedor: Warrior
+Poderio: 1406
+Capitao comum: Brawler
+Vencedor: Reaper
+Poderio: 1418
+Vencedor: Sorcerer
+Poderio: 690
+Alcunha: Sorcerer
+Funcao: Combatente
+Poder: 690
+Capitao do esquadrao
+
+Alcunha: Priest
+Funcao: Suporte
+Poder: 743
+Capitao do esquadrao
+
+Alcunha: Berserker
+Funcao: Suporte
+Poder: 260
+Capitao do esquadrao
+
+Alcunha: Gunner
+Funcao: Suporte
+Poder: 603
+Tutor: Berserker
+
+Alcunha: Valkyrie
+Funcao: Suporte
+Poder: 43
+Tutor: Gunner
+
+Alcunha: Archer
+Funcao: Combatente
+Poder: 894
+Tutor: Gunner
+
+Alcunha: Reaper
+Funcao: Combatente
+Poder: 12
+Tutor: Archer
+
+Alcunha: Warrior
+Funcao: Combatente
+Poder: 512
+Tutor: Reaper
+
+Alcunha: Priest
+Funcao: Suporte
+Poder: 743
+Tutor: Warrior
+
+Alcunha: Paladin
+Funcao: Combatente
+Poder: 151
+Tutor: Warrior
+
+Alcunha: Mystic
+Funcao: Combatente
+Poder: 385
+Tutor: Berserker
+
