@@ -1,0 +1,21 @@
+A = 3 
+A = 3 5 
+A = 3 5 7 
+A = 3 5 7 
+B = Conjunto vazio!
+3
+0
+B = 5 
+B = 5 7 
+B = 5 7 9 
+3
+9
+3 5 7 9 
+A = 3 7 
+Elemento nao encontrado!
+7 
+3 
+Falso
+A = 3 7 
+B = 3 7 
+Verdadeiro
