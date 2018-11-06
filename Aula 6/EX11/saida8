@@ -1,0 +1,39 @@
+A = 1.0x
+B = 2.0x^2
+C = 3.0x^3
+D = 4.0x^4
+E = 5.0x^5
+F = 6.0x^6
+G = 7.0x^7
+H = 8.0x^8
+I = 9.0x^9
+J = 10.0x^10
+A = 1.0x
+B = 2.0x^2
+C = 3.0x^3
+D = 4.0x^4
+E = 5.0x^5
+F = 6.0x^6
+G = 7.0x^7
+H = 8.0x^8
+I = 9.0x^9
+J = 10.0x^10
+Calculadora cheia!
+Calculadora cheia!
+Calculadora cheia!
+Calculadora cheia!
+Polinomio invalido!
+A = 1.0x
+B = 2.0x^2
+C = 3.0x^3
+D = 4.0x^4
+E = 5.0x^5
+F = 6.0x^6
+G = 7.0x^7
+H = 8.0x^8
+I = 9.0x^9
+J = 10.0x^10
+Notação infixa: (A*C+B*D-J)*A+I*H+(E+F-B*J)
+Notação prefixa: ++*-+*AC*BDJA*IH-+EF*BJ
+Notação posfixa: AC*BD*+J-A*IH*+EF+BJ*-+
+Memoria da calculadora cheia!

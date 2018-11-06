@@ -1,0 +1,16 @@
+A = 2.0x^4 +5.0x^3
+B = 5.0x^4 +4.0x^2
+A = 2.0x^4 +5.0x^3
+B = 5.0x^4 +4.0x^2
+C = Polinomio vazio!
+D = Polinomio vazio!
+E = Polinomio vazio!
+F = Polinomio vazio!
+G = Polinomio vazio!
+H = Polinomio vazio!
+I = Polinomio vazio!
+J = Polinomio vazio!
+Notação infixa: A*B
+Notação prefixa: *AB
+Notação posfixa: AB*
+AB* = 10.0x^8 +25.0x^7 +8.0x^6 +20.0x^5

@@ -1,0 +1,11 @@
+Notação infixa: (A)+(B)+(C)
+Notação prefixa: ++ABC
+Notação posfixa: AB+C+
+AB+C+ = Polinomio vazio!
+A = 1.0x
+B = 3.0x^3
+C = 2.0x^2
+Notação infixa: (A)+(B)+(C)
+Notação prefixa: ++ABC
+Notação posfixa: AB+C+
+AB+C+ = 3.0x^3 +2.0x^2 +1.0x

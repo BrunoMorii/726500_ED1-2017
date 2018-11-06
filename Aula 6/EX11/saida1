@@ -1,0 +1,52 @@
+A = 21.0x
+B = 22.0x^2
+C = 23.0x^3
+D = 24.0x^4
+E = 25.0x^5
+F = 26.0x^6
+G = 27.0x^7
+H = 28.0x^8
+I = 29.0x^9
+J = 2.0x^10
+Calculadora cheia!
+Polinomio invalido!
+Calculadora cheia!
+Calculadora cheia!
+Polinomio invalido!
+Calculadora cheia!
+Calculadora cheia!
+Polinomio invalido!
+Calculadora cheia!
+Calculadora cheia!
+Polinomio invalido!
+Calculadora cheia!
+A = 21.0x
+B = 22.0x^2
+C = 23.0x^3
+D = 24.0x^4
+E = 25.0x^5
+F = 26.0x^6
+G = 27.0x^7
+H = 28.0x^8
+I = 29.0x^9
+J = 2.0x^10
+Notação infixa: A*A
+Notação prefixa: *AA
+Notação posfixa: AA*
+AA* = 441.0x^2
+Notação infixa: +=-ADC
+Operador nao suportado <=>!
+Operador nao suportado <=>!
+Operador nao suportado <=>!
+Notação prefixa: =+-ADC
+Operador nao suportado <=>!
+Operador nao suportado <=>!
+Operador nao suportado <=>!
+Notação posfixa: +ADC-=
+Notação infixa: A+B+C+D+E++F
+Notação prefixa: ++++++ABCDEF
+Notação posfixa: AB+C+D+E++F+
+Notação infixa: (A+B+C+D+E+F+G+H+I+J)*A
+Notação prefixa: *+++++++++ABCDEFGHIJA
+Notação posfixa: AB+C+D+E+F+G+H+I+J+A*
+AB+C+D+E+F+G+H+I+J+A* = 42.0x^11 +609.0x^10 +588.0x^9 +567.0x^8 +546.0x^7 +525.0x^6 +504.0x^5 +483.0x^4 +462.0x^3 +441.0x^2

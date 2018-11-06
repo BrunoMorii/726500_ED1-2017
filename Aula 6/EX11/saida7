@@ -1,0 +1,17 @@
+A = 1.0x
+B = 1.0x
+C = 1.0x
+Notação infixa: A-B
+Notação prefixa: -AB
+Notação posfixa: AB-
+AB- = 0.0x
+D = 2.0x^2
+E = 2.0x^4
+Notação infixa: A-B
+Notação prefixa: -AB
+Notação posfixa: AB-
+AB- = 0.0x
+Notação infixa: A-B*C
+Notação prefixa: -A*BC
+Notação posfixa: ABC*-
+ABC*- = -1.0x^2 +1.0x

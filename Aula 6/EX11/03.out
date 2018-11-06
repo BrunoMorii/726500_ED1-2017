@@ -1,0 +1,22 @@
+A = Polinomio vazio!
+A = Polinomio vazio!
+B = Polinomio vazio!
+C = Polinomio vazio!
+D = Polinomio vazio!
+E = Polinomio vazio!
+F = Polinomio vazio!
+G = Polinomio vazio!
+H = Polinomio vazio!
+I = Polinomio vazio!
+J = Polinomio vazio!
+B = 2.0x^2
+C = 3.0x^3
+Notação infixa: (C+D)
+Notação prefixa: +CD
+Notação posfixa: CD+
+CD+ = 3.0x^3
+D = 4.0x^4
+Notação infixa: (A+D)
+Notação prefixa: +AD
+Notação posfixa: AD+
+AD+ = 4.0x^4

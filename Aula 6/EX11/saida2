@@ -1,0 +1,18 @@
+A = 1.0x
+B = 2.0x^2
+C = 3.0x^3
+D = 4.0x^4
+E = 5.0x^5
+F = 6.0x^6
+G = 7.0x^7
+H = 8.0x^8
+I = 9.0x^9
+J = 10.0x^10
+Notação infixa: A+A+A+A+A+A+A+A
+Notação prefixa: +++++++AAAAAAAA
+Notação posfixa: AA+A+A+A+A+A+A+
+AA+A+A+A+A+A+A+ = 8.0x
+Notação infixa: A*B*C*D*E*F*G*H*I*J+A+B+C+D+E+F+G+H+I+J
+Notação prefixa: ++++++++++*********ABCDEFGHIJABCDEFGHIJ
+Notação posfixa: AB*C*D*E*F*G*H*I*J*A+B+C+D+E+F+G+H+I+J+
+Memoria da calculadora cheia!
